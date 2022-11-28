@@ -1,7 +1,7 @@
 {
   "name": "ExzoSwap List",
   "timestamp": "2022-10-11T00:00:00.000Z",
-  "logoURI": "https://exzo.network/favicon.png",
+  "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,7 +14,7 @@
       "chainId": 1229,
       "decimals": 18,
       "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png"
     },
     {
       "name": "Wrapped EXZO",
@@ -22,7 +22,7 @@
       "chainId": 2370,
       "decimals": 18,
       "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png"
     }
   ]
 }
