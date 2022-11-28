@@ -1,0 +1,28 @@
+{
+  "name": "ExzoSwap List",
+  "timestamp": "2022-10-11T00:00:00.000Z",
+  "logoURI": "https://exzo.network/favicon.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Wrapped EXZO",
+      "symbol": "WXZO",
+      "chainId": 1229,
+      "decimals": 18,
+      "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+      "logoURI": ""
+    },
+    {
+      "name": "Wrapped EXZO",
+      "symbol": "WXZO",
+      "chainId": 2370,
+      "decimals": 18,
+      "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+      "logoURI": ""
+    }
+  ]
+}
