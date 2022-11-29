@@ -17,6 +17,14 @@
       "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png"
     },
     {
+      "name": "Exzo is Cool",
+      "symbol": "CXZO",
+      "chainId": 2370,
+      "decimals": 18,
+      "address": "0xcfA488571BBeA2D60fD56Af14AfD58904931720B",
+      "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png"
+    },
+    {
       "name": "Wrapped EXZO",
       "symbol": "WXZO",
       "chainId": 2370,
