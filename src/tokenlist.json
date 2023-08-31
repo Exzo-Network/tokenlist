@@ -9,12 +9,12 @@
   },
   "tokens": [
     {
-      "name": "Wrapped EXZO",
+      "name": "Wrapped Exzo",
       "symbol": "WXZO",
       "chainId": 1229,
       "decimals": 18,
-      "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
-      "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets/master/blockchains/exzo/assets/0xC1128CB655cB12A67228505a86c6C867033215fF/logo.png"
+      "address": "0xb48344E930106cED3413BA69669CaD8b6DD4e1A5",
+      "logoURI": "https://raw.githubusercontent.com/ExzoNetwork/assets-wallet/master/blockchains/exzonetwork/assets/0xb48344E930106cED3413BA69669CaD8b6DD4e1A5/Group%201000004408.png"
     },
     {
       "name": "Exzo is Cool",
